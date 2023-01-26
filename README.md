@@ -10,7 +10,7 @@ Publish to GitHub Pages with:
 
 Add git submodule on the [developer-website](https://github.com/opengeospatial/developer-website):
 
-`git submodule add -b gh-pages https://github.com/opengeospatial/dev-ogc-org-sprint-landing-19.git sprints/19`
+`git submodule add -b gh-pages https://github.com/opengeospatial/dev-ogc-org-sprint-landing-20.git sprints/20`
 
 Update git submodule:
 
@@ -18,5 +18,5 @@ Update git submodule:
 
 Available at:
 
-`https://developer.ogc.org/sprints/19`
+`https://developer.ogc.org/sprints/20`
 
