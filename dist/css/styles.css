@@ -11000,6 +11000,16 @@ p {
 #mainNav .navbar-brand img {
   height: 1.5rem;
 }
+#mainNav .navbar-brand1 {
+  color: #00B1FF;
+  font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-weight: 700;
+  letter-spacing: 0.0625em;
+  text-transform: uppercase;
+}
+#mainNav .navbar-brand1 img {
+  height: 6rem;
+}
 #mainNav .navbar-nav .nav-item .nav-link {
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 0.95rem;
@@ -11055,7 +11065,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: left;
   color: #000;
-  background-color: #fbf8f1;
+  background-color: #f9f6f0;
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -11069,9 +11079,15 @@ header.masthead .masthead-subheading {
   font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 header.masthead .masthead-heading {
+  font-size: 3.25rem;
+  font-weight: 700;
+  line-height: 3.25rem;
+  margin-bottom: 2rem;
   font-family: "Annie Use Your Telescope";
   text-align: left;
-  text-shadow: 4px 4px 4px #aaa;
+}
+header.masthead img {
+  width: 100%;
 }
 
 @media (min-width: 768px) {

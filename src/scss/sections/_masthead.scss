@@ -7,7 +7,7 @@ header.masthead {
     padding-bottom: 6rem;
     text-align: left;
     color: $black;
-    background-color: #fbf8f1;
+    background-color: #f9f6f0;
     //background-image: url("../assets/img/girl-free-bird.png");
     background-repeat: no-repeat;
     background-attachment: scroll;
@@ -23,23 +23,18 @@ header.masthead {
     }
 
     .masthead-heading {
-        // font-size: 3.25rem;
-        // font-weight: 700;
-        // line-height: 3.25rem;
-        // margin-bottom: 2rem;
+        font-size: 3.25rem;
+        font-weight: 700;
+        line-height: 3.25rem;
+        margin-bottom: 2rem;
         font-family: 'Annie Use Your Telescope';
         // font-family: $headings-font-family;
-        //font-family: "Katahdin Round",sans-serif;
-        // z-index: 7;
-        // font-size: 8vw;
-        // position: absolute;
-        // top: 8vw;
-        // left: 7vw;
         text-align: left;
-        text-shadow: 4px 4px 4px #aaa;
-        //color: #044a74;
 
 
+    }
+    img {
+        width: 100%;
     }
 
 }
