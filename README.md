@@ -18,5 +18,5 @@ Update git submodule:
 
 Available at:
 
-`https://developer.ogc.org/sprints/20`
+`https://developer.ogc.org/sprints/20/`
 
